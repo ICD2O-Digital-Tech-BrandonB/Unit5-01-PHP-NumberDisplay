@@ -12,5 +12,5 @@ while ($counter <= $maxNumb) {
     $counter++;
 }
 // Display the result
-echo $numbers;
+echo $number;
 ?>
