@@ -7,7 +7,7 @@ $maxNumb = $_POST['maxNumb'];
 
 while ($counter <= $maxNumb) {
     if ($counter >= $minNumb) {
-        $number .= $counter . " ";
+        $number .= $counter . "<br>";
     }
     $counter++;
 }
